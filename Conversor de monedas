@@ -1,0 +1,19 @@
+function covertir(cantidad, moneda) (
+let dolar 10:
+ Let euro 201
+ let bitcoin-30;
+
+if(moneda 'dolar'){
+  return cantidad delar
+} 
+if(moneda 'euro')(
+ return cantidad eure
+
+if(moneda 'bitcoin'){
+  return cantidad bitcoin
+} 
+Jelse{
+ return 'no existe tal moneda
+  }   
+} 
+covertir(10, 'plata)
